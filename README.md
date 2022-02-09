@@ -3,7 +3,7 @@
 ### ➔ I'm 4th year Computer Engineering student at Firat University.
 ### ➔ I improve myself by developing back-end projects with Java and Spring.
 ### ➔ Currently Learning: JWT, Unit Test, Integration Test, Docker, AWS, MongoDB...
-### ➔ Powerful Abilities: Searching and Googling :smile:
+### ➔ Powerful Abilities: Researching and Googling :smile:
 
 <br>
 

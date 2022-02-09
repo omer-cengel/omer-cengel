@@ -1,18 +1,19 @@
-# Hi there, I'm Ömer 👋
-
+# Hi there, I'm Ömer :wave:
+ 
 ### ➔ I'm 4th year Computer Engineering student at Firat University.
 ### ➔ I improve myself by developing back-end projects with Java and Spring.
 ### ➔ Currently Learning: JWT, Unit Test, Integration Test, Docker, AWS, MongoDB...
+### ➔ Powerful Abilities: Searching and Googling :smile:
 
 <br>
 
-# Contact with me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
+# Contact with me! :handshake:
 <a href="https://www.linkedin.com/in/oscngl/" target="_blank" rel="nofollow"><img alt="Ömer's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:oscngl@gmail.com" target="_blank" rel="nofollow"><img alt="Ömer's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
 <br>
 
-# Technologies & Tools 🛠
+# Technologies & Tools :books:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

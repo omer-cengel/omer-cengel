@@ -1,6 +1,5 @@
 # Hi there, I'm Ömer :wave:
- 
-### ➔ I'm 4th year Computer Engineering (Bachelor's D.) student at Firat (Euphrates) University.
+
 ### ➔ I improve myself by developing projects with Java, Spring and React.
 ### ➔ Currently Learning: Microservices, Kubernetes...
 ### ➔ Powerful Abilities: Researching and Googling :slightly_smiling_face:

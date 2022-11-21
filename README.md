@@ -1,17 +1,9 @@
 # Hi there, I'm Ömer :wave:
 
-### ➔ I improve myself by developing projects with Java, Spring and React.
-### ➔ Currently Learning: Microservices, Kubernetes...
-### ➔ Powerful Abilities: Researching and Googling :slightly_smiling_face:
 
-<br>
-
-# Contact with me! :handshake:
 <a href="https://www.linkedin.com/in/oscngl/" target="_blank" rel="nofollow"><img alt="Ömer's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:oscngl@gmail.com" target="_blank" rel="nofollow"><img alt="Ömer's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/oscngl" target="_blank" rel="nofollow"><img alt="Ömer's HackerRank Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   
-<br>
 
 # Technologies & Tools :books:
 

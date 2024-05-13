@@ -1,7 +1,8 @@
 # Hi there, I'm Ömer :wave:
 
-<a href="https://www.linkedin.com/in/oscngl/" target="_blank" rel="nofollow"><img alt="Ömer's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:oscngl@gmail.com" target="_blank" rel="nofollow"><img alt="Ömer's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/oscngl/" target="_blank" rel="nofollow"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:oscngl@gmail.com" target="_blank" rel="nofollow"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/oscngl/" target="_blank" rel="nofollow"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
   
 # Technologies & Tools :books:
 
